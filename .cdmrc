@@ -1,1 +1,2 @@
-tabs: ['README.md']
+tabs: ['index.html']
+terminals: ['startic-server -p 1337 --no-cache']
